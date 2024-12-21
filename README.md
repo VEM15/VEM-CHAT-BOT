@@ -31,6 +31,8 @@
 
 </h3>
 
+─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
+</h3>
 
 ### Contact:
 <a href="https://t.me/ABOUT_DEVIL_VENOM">
