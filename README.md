@@ -2,7 +2,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="center">
-    <img src="https://files.catbox.moe/gjs8ci.jpg">
+    <img src="https://graph.org/file/4d75b119607861f5381e3-df7aa90378a66489b1.jpg">
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -34,6 +34,6 @@
 
 
 ### Contact:
-<a href="https://t.me/DNS_NETWORK">
+<a href="https://t.me/ABOUT_DEVIL_VENOM">
     <img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB">
 </a>
