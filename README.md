@@ -35,7 +35,7 @@
 
 </h3>
 - Clone the repository by :
-`git clone https://github.com/AbhiModszYT/AnieXEricaMusic && cd AnieXEricaMusic`
+`git clone https://github.com/VEM15/VEM-CHAT-BOT && cd VEM-CHAT-BOT`
 - Install requirements by :
 `pip3 install -U -r requirements.txt`
 - Fill your variables in the env by :
