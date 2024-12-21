@@ -1,4 +1,5 @@
 ─「 ─「 ─「 👑•⃟⃟⃝⃪⃟⃝•๋๋๋๋๋๋๋๋๋๋๋๋๋๋♥️⃪❘꯭𝄄꯭⍣⧉⃞⟶͇̽𓆩̯♥️🇩𝐈𝐋💌̶꯭꯭❥͜͡𝄟⑅⃝♥ 」─ 」─ 」─
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="center">
     <img src="https://graph.org/file/4d75b119607861f5381e3-df7aa90378a66489b1.jpg">
@@ -32,7 +33,8 @@
 </h3>
 
 ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
-</h3>
+
+<h3 align="center">
 
 - Clone the repository by :
 `git clone https://github.com/VEM15/VEM-CHAT-BOT && cd VEM-CHAT-BOT`
