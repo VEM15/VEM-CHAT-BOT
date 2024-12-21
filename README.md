@@ -32,7 +32,24 @@
 </h3>
 
 ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
+
 </h3>
+- Clone the repository by :
+`git clone https://github.com/AbhiModszYT/AnieXEricaMusic && cd AnieXEricaMusic`
+- Install requirements by :
+`pip3 install -U -r requirements.txt`
+- Fill your variables in the env by :
+`vi sample.env`<br>
+Press `I` on the keyboard for editing env<br>
+Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
+- Rename the env file by :
+`mv sample.env .env`
+- Install tmux to keep running your bot when you close the terminal by :
+`sudo apt install tmux && tmux`
+- Finally run the bot by :
+`bash start`
+- For getting out from tmux session : Press `Ctrl+b` and then `d`<br>
+━━━━━━━━━━━━━━━━━━━━
 
 ### Contact:
 <a href="https://t.me/ABOUT_DEVIL_VENOM">
