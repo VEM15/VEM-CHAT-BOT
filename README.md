@@ -33,8 +33,7 @@
 </h3>
 
 ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
-
-<h3 align="center">
+ <h3 align="center">
 
 - Clone the repository by :
 `git clone https://github.com/VEM15/VEM-CHAT-BOT && cd VEM-CHAT-BOT`
