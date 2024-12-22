@@ -2,7 +2,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="center">
-    <img src="https://graph.org/file/4d75b119607861f5381e3-df7aa90378a66489b1.jpg">
+    <img src="https://files.catbox.moe/klf71q.jpg">
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
