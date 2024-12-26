@@ -36,7 +36,7 @@
  
 
 - Clone the repository by :
-`git clone https://github.com/VEM15/VEM-CHAT-BOT && cd VEM-CHAT-BOT`
+`git clone https://github.com/VEM15/VEM-CHATTING-BOT && cd VEM-CHATTING-BOT`
 
 - Install requirements by :
 `pip3 install -U -r requirements.txt`
